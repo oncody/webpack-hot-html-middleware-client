@@ -1,0 +1,44 @@
+{
+  "_from": "webpack-hot-html-middleware-client@1.0.0",
+  "_id": "webpack-hot-html-middleware-client@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-x/ZEM+jENzIWUWU9/maalrYPJaU7ccjcom4yJEzVmlDGetW8s0g/wJoltdVKL4RlbXjV59Fr1f5bzyu5hC0HXw==",
+  "_location": "/webpack-hot-html-middleware-client",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "webpack-hot-html-middleware-client@1.0.0",
+    "name": "webpack-hot-html-middleware-client",
+    "escapedName": "webpack-hot-html-middleware-client",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/webpack-hot-html-middleware-client/-/webpack-hot-html-middleware-client-1.0.0.tgz",
+  "_shasum": "bf710a8648a5d2405fb1ca8d2b07517858ed86b9",
+  "_spec": "webpack-hot-html-middleware-client@1.0.0",
+  "_where": "C:\\dev\\test",
+  "author": {
+    "name": "Cody Smith"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "webpack-hot-middleware": "latest"
+  },
+  "deprecated": false,
+  "description": "This aids in hot module replacement for html-webpack-plugin with webpack-hot-middleware",
+  "keywords": [
+    "html-webpack-plugin",
+    "webpack",
+    "webpack-dev-middleware",
+    "webpack-hot-middleware"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "webpack-hot-html-middleware-client",
+  "version": "1.0.0"
+}
